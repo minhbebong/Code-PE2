@@ -1,0 +1,10 @@
+Bài 1: Tính T= (a-32)*5/9
+Bài 2:Tìm GTNN với điều kiện mảng < 6 .
+Bài 3:Hiển thị các số chẵn trong mảng vừa sắp xếp theo thứ tự giảm dần .
+Bài 4:Vẽ tam giác cân đảo ngược.
+Bài 5:In hoa tất cả các kí tự trong chuỗi.
+Bài 6:In hoa kí tự thường , in thường kí tự in hoa .
+Bài 7:In ra mảng chia hết cho x với điều kiện mảng < 5.
+Bài 8:Tính sum = 1^2/1!+2^2/2!+3^2/3!+...+a^2/a!
+Bài 9: Xóa kí tự đầu tiên của mỗi từ trong chuỗi .
+Bài 10:Kiểm tra số nguyên tố .Nếu đúng là số nguyên tố thì đổi sang số bát phân ,sai thì in ra dòng không phải số nguyên tố.
